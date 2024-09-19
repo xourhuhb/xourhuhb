@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Development**
 
-- 🌱 I’m currently learning **React Frameworks and other stuff**
+- 🌱 I’m currently learning **MERN and Frontend Frameworks**
 
 - 📫 How to reach me **sourabhalabanoor@gmail.com**
 
